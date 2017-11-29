@@ -1,5 +1,5 @@
-def fizzbuzz(n)
-  if n % 3 == 0
+def fizzbuzz(fizz_3)
+  if fizz_3 == fixnum
     return "Fizz"
 
 end
