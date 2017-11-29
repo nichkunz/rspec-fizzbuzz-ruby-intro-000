@@ -1,5 +1,5 @@
 def fizzbuzz(n)
-  if (n % 3) == fixnum
+  if (n.to_i % 3) == fixnum
     return "Fizz"
   end
 end
